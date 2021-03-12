@@ -1,2 +1,2 @@
 # BAnAnASpy
-Batch Sanger sequences alignment program
+Batch Sanger sequences automated alignment program

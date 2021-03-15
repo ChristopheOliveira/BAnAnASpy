@@ -15,7 +15,8 @@ No need of external programs, you just need some python libraries
 
     'tkinter' if necessary
 >Python2.X: `sudo apt-get install python-tk`\
->Python3.X: `sudo apt-get install python3-tk`  
+>Python3.X: `sudo apt-get install python3-tk`
+
 &nbsp;
 ### Things to know about filename of SEQ before sequencing:
 * Use '-'(6) to separate each part name
@@ -29,4 +30,5 @@ No need of external programs, you just need some python libraries
       Exp filenames before sequencing: 1201645-ABCB4-8F, 1123546-ABCB11-DPN-8_9R
       Exp ab1 files: A01_1201645-ABCB4-8F.ab1, H02_1123546-ABCB11-DPN-8_9R.ab1
 
+&nbsp;
 Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3

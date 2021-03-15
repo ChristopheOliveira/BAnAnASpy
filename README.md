@@ -27,11 +27,10 @@ No need of external programs, you just need some python libraries
 * The primer part must finish by 'R' for reverse sequences
 * For multiplex or partial exon names, separate each number by '_'(8) or '.' or '/'
 
-<br/>
 Examples:
 
-    Exp filenames before sequencing: 1201645-ABCB4-8F, 1123546-ABCB11-DPN-8_9R
-    Exp ab1 files: A01_1201645-ABCB4-8F.ab1, H02_1123546-ABCB11-DPN-8_9R.ab1
+    filenames before sequencing: 1201645-ABCB4-8F, 1123546-ABCB11-DPN-8_9R
+    ab1 files: A01_1201645-ABCB4-8F.ab1, H02_1123546-ABCB11-DPN-8_9R.ab1
 
 <br/>
 <br/>

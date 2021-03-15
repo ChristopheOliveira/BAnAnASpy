@@ -32,5 +32,4 @@ No need of external programs, you just need some python libraries
 
 &nbsp;
 &nbsp;
-&nbsp;
 Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3

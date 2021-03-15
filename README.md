@@ -16,6 +16,7 @@ No need of external programs, you just need some python libraries
     'tkinter' if necessary
 >Python2.X: `sudo apt-get install python-tk`\
 >Python3.X: `sudo apt-get install python3-tk`
+
 &nbsp;
 ### Things to know about filename of SEQ before sequencing:
 * Use '-'(6) to separate each part name

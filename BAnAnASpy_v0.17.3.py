@@ -7,7 +7,7 @@
 # BAnAnASpy_v0.17
 
 #####  Libraries to install  #####
-# 'biopython' 'xlutils' 'xlsxwriter' ('lxml')
+# 'biopython' 'xlsxwriter'
 # Linux: pip install 'package' ou pip3 install 'package'
 # Windows: python ou py -m pip install 'package'
 # sudo apt-get install python-tk pour Python2.X
@@ -28,18 +28,13 @@ import glob
 import os
 import sys
 from datetime import datetime
-# from time import strftime
 import logging
 logger = logging.Logger('catch_all')
 import re
 from math import floor
-# from operator import itemgetter
-# from lxml import etree
 from xml.dom import minidom
 import xlsxwriter
-# import xlwt
 import xlrd
-# from xlutils.copy import copy
 from Bio import SeqIO
 from Bio import Align
 from Bio.Seq import Seq
@@ -58,7 +53,7 @@ if pythonVersion == str(2):
 # Ouverture de fichier sous Python3 #
 if pythonVersion == str(3):
     import tkinter as tk
-    from tkinter.filedialog import askopenfilename, askopenfilenames, askdirectory
+    from tkinter.filedialog import askopenfilename, askdirectory
     from tkinter.messagebox import askokcancel, askyesno
 
 

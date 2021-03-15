@@ -27,6 +27,6 @@ No need external programs, you just need some python libraries
 * For multiplex or partial exon names, separate each number by '_'(8) or '.' or '/'
 
       Exp filenames before sequencing: 1201645-ABCB4-8F, 1123546-ABCB11-DPN-8_9R
-      Exp files Ab1: A01_1201645-ABCB4-8F.ab1, H02_1123546-ABCB11-DPN-8_9R.ab1
+      Exp ab1 files: A01_1201645-ABCB4-8F.ab1, H02_1123546-ABCB11-DPN-8_9R.ab1
 
 Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3

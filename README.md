@@ -1,7 +1,4 @@
 # BAnAnASpy
-Batch Sanger sequences automated alignment program
-
-
 BAtch 'n Automated 'n Aligner Sequences python program
 
 Before run the program for the first time, you need to setup some variables located at the start of 'main()' method.

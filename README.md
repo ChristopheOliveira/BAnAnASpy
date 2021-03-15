@@ -6,7 +6,8 @@ No need external programs, you just need some python libraries
 
 ## Libraries to install:
     'biopython' 'xlsxwriter'
-    Linux: pip install 'package' or pip3 install 'package'
+
+Linux: pip install 'package' or pip3 install 'package'
 Windows: python or py -m pip install 'package'
 sudo apt-get install python-tk for Python2.X
 sudo apt-get install python3-tk for Python3.X

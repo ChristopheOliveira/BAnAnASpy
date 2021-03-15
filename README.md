@@ -15,7 +15,7 @@ No need external programs, you just need some python libraries
 
     'tkinter' if necessary
 >sudo apt-get install python-tk for Python2.X  
->sudo apt-get install python3-tk for Python3.X
+`sudo apt-get install python3-tk` for Python3.X
   
   
 ### Things to know about filename of SEQ before sequencing:

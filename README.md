@@ -10,11 +10,11 @@ No need of external programs, you just need some python libraries
 ### Libraries to install:
     'biopython' 'xlsxwriter'
 
->Linux: `pip install 'package'` or `pip3 install 'package'`  
+>Linux: `pip install 'package'` or `pip3 install 'package'`\
 >Windows: `python pip install 'package'` or `py -m pip install 'package'`
 
     'tkinter' if necessary
->Python2.X: `sudo apt-get install python-tk`  
+>Python2.X: `sudo apt-get install python-tk`\
 >Python3.X: `sudo apt-get install python3-tk`  
 
 ### Things to know about filename of SEQ before sequencing:

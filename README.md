@@ -16,7 +16,7 @@ No need external programs, you just need some python libraries
     'tkinter' if necessary
 >Python2.X: `sudo apt-get install python-tk`  
 >Python3.X: `sudo apt-get install python3-tk`  
-  
+
 ### Things to know about filename of SEQ before sequencing:
 * Use '-'(6) to separate each part name
 * Fist part must be the patient id

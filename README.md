@@ -11,7 +11,7 @@ No need external programs, you just need some python libraries
 
 >Linux: pip install 'package' or pip3 install 'package'
 
->Windows: python or py -m pip install 'package'
+Windows: python or py -m pip install 'package'
 
 
 >sudo apt-get install python-tk for Python2.X

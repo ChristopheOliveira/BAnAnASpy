@@ -4,7 +4,7 @@ BAtch 'n Automated 'n Aligner Sequences python program
 Before run the program for the first time, you need to setup some variables located at the start of 'main()' method.
 No need external programs, you just need some python libraries
 
-Libraries to install:
+## Libraries to install:
 'biopython' 'xlsxwriter'
 Linux: pip install 'package' or pip3 install 'package'
 Windows: python or py -m pip install 'package'

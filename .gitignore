@@ -1,0 +1,9 @@
+#  archives ignore list
+*.tgz
+*.zip
+*.gz
+#ignore hidden file
+.*
+ 
+# mais pas ce fichier car utile
+!.gitignore

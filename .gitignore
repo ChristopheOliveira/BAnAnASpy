@@ -1,7 +1,6 @@
 #  archives ignore list
-*.tgz
-*.zip
-*.gz
+*.py
+
 #ignore hidden file
 .*
  

@@ -3,7 +3,7 @@ BAtch 'n Automated 'n Aligner Sequences python program
 
 
 ## Setup:
-Before run the program for the first time, you need to setup some variables located at the start of 'main()' method.
+Before run the program for the first time, you need to setup some variables located at the start of 'main()' method.\
 No need of external programs, you just need some python libraries
 
 &nbsp;
@@ -19,13 +19,13 @@ No need of external programs, you just need some python libraries
 
 &nbsp;
 ### Things to know about filename of SEQ before sequencing:
-* Use '-'(6) to separate each part name
+* Use dash '-' to separate each part name
 * Fist part must be the patient id
 * Second part must be the gene
-* The other parts order is free
+* The order of other parts is free
 * The primer part must finish by 'F' or 'S' for forward sequences
 * The primer part must finish by 'R' for reverse sequences
-* For multiplex or partial exon names, separate each number by '_'(8) or '.' or '/'
+* For multiplex or partial exon names, separate each number by underscore '_' or dot '.' or slash '/'
 
 Examples:
 

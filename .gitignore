@@ -1,9 +1,0 @@
-# archives ignore list
-*.py
-
-# ignore hidden file
-.*
- 
-# mais pas ce fichier car utile
-!.gitignore
-!BAnAnASpy_v0.17.3.py

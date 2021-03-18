@@ -20,7 +20,7 @@ No need of additional programs, you just need some python libraries
 &nbsp;
 ### Things to know about filename of SEQ before sequencing:
 * Use dash '-' to separate each part name
-* Fist part must be the patient id
+* First part must be the patient id
 * Second part must be the gene
 * The order of other parts is free
 * The primer part must finish by 'F' or 'S' for forward sequences

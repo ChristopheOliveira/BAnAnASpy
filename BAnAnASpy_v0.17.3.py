@@ -17,7 +17,7 @@
 
 #####  Things to know about filename of SEQ  #####
 # Use dash '-' to separate each part name
-# Fist part must be the patient id
+# First part must be the patient id
 # Second part must be the gene
 # The order of other parts is free
 # The primer part must finish by 'F' or 'S' for forward sequences

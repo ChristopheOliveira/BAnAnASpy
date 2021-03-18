@@ -4,7 +4,7 @@ BAtch 'n Automated 'n Aligner Sequences python program
 
 ## Setup:
 Before run the program for the first time, you need to setup some variables located at the start of 'main()' method.\
-No need of external programs, you just need some python libraries
+No need of additional programs, you just need some python libraries
 
 &nbsp;
 ### Libraries to install:

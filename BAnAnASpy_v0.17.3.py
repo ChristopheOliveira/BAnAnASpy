@@ -68,7 +68,7 @@ def main():
 
     ##########  Setup  ##########
 
-    path_db = 'C:/YourFolder'  # Path of your folder who contains reference files
+    path_db = 'C:/YourFolder'  # Path of your folder which contains reference files
 
     familyManager = 0  # <1> if you want to manage family members, <0> if you don't
     colIdName = "Prélèvement d'origine"  # Tag of the patient id column

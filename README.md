@@ -4,7 +4,7 @@ BAtch 'n Automated 'n Aligner Sequences python program
 
 ## Setup:
 Before run the program for the first time, you need to setup some variables located at the start of 'main()' method.\
-No need of external programs, you just need some python libraries
+No need of additional programs, you just need some python libraries
 
 &nbsp;
 ### Libraries to install:
@@ -20,7 +20,7 @@ No need of external programs, you just need some python libraries
 &nbsp;
 ### Things to know about filename of SEQ before sequencing:
 * Use dash '-' to separate each part name
-* Fist part must be the patient id
+* First part must be the patient id
 * Second part must be the gene
 * The order of other parts is free
 * The primer part must finish by 'F' or 'S' for forward sequences

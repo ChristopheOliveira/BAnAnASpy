@@ -1,5 +1,5 @@
-![alt tag](https://user-images.githubusercontent.com/80535244/112603647-95959e00-8e15-11eb-95a5-967955d1a413.png)
-# BAnAnASpy
+
+# BAnAnASpy  ![alt tag](https://user-images.githubusercontent.com/80535244/112607316-5d905a00-8e19-11eb-96f7-e44c5a6912a4.png) 
 BAtch 'n Automated 'n Aligner Sequences python program
 
 

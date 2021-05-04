@@ -32,7 +32,7 @@ Examples:
 
     filenames before sequencing: 1201645-ABCB4-8F, 1123546-ABCB11-DPN-8_9R
     ab1 files: A01_1201645-ABCB4-8F.ab1, H02_1123546-ABCB11-DPN-8_9R.ab1
-
+You can also use the program 'FormatSeqName' for renaming your .ab1 files to the format supported by BAnAnASpy.
 <br/>
 <br/>
 Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3

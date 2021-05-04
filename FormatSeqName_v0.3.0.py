@@ -5,6 +5,8 @@
 # Contact : christophe.oliveira@aphp.fr, christophe.oliveira33@gmail.com
 
 # FormatSeqName_v0.3
+# Program for renaming .ab1 files to the format supported by BAnAnASpy
+
 #####  UPDATES  #####
 # Changement de méthode de récupération des fichiers
 # Rajout des tests pour garantir la bonne execution du 'rename()'

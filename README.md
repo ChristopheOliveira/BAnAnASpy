@@ -9,7 +9,7 @@ No need of additional programs, you just need some python libraries
 
 &nbsp;
 ### Libraries to install:
-    'biopython' 'xlsxwriter'
+    'biopython' 'xlsxwriter' 'matplotlib'
 
 >Linux: `pip install 'package'` or `pip3 install 'package'`\
 >Windows: `python pip install 'package'` or `py -m pip install 'package'`
@@ -36,4 +36,4 @@ You can also use the program `FormatSeqName` for renaming your .ab1 files to the
 <br/>
 <br/>
 <br/>
-Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3
+Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3, Matplotlib 3.4.2

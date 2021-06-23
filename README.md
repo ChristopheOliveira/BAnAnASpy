@@ -36,4 +36,4 @@ You can also use the program `FormatSeqName` for renaming your .ab1 files to the
 <br/>
 <br/>
 <br/>
-Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3, Matplotlib 3.4.2
+Coding with Python3.7, Biopython1.77, XlsxWriter1.3.3, Matplotlib 3.3.2
